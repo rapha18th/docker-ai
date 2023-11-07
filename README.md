@@ -47,10 +47,3 @@ Click on 'Submit' to get the AI-generated response. If the OpenAI API key is not
 
 The application leverages the OpenAI API to generate responses to text input. This is handled by the `generate_response()` function. The API key for OpenAI is input in the sidebar. The application also checks the validity of the key before processing the input.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
